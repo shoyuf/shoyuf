@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![shoyuf's Github stats](https://github-readme-stats.vercel.app/api?username=shoyuf&show_icons=true&bg_color=343640&theme=tokyonight&hide_border=true)](https://github.com/shoyuf)
+[![shoyuf's Github stats](https://github-readme-stats-nine-orcin.vercel.app/api?username=shoyuf&show_icons=true&theme=transparent&hide_border=true)](https://github.com/shoyuf)
 
 <!--
 **shoyuf/shoyuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
